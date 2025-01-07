@@ -50,8 +50,8 @@ const projects: Project[] = [
     description: 'A personal portfolio website showcasing my projects and skills.',
     image: '/portfolio.PNG',
     technologies: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
-    githubLink: 'https://github.com/ameerhamza/portfolio',
-    liveLink: 'https://ameerhamza-portfolio.vercel.app',
+    githubLink: 'https://github.com/mr-hamza-3335/AmeerHamza.com',
+    liveLink: 'https://ameer-hamza-com.vercel.app/',
   },
   {
     id: 5,
