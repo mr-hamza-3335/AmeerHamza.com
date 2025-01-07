@@ -16,7 +16,7 @@ export default function Footer() {
             <h3 className="text-2xl font-bold color-change-text mb-4">Ameer Hamza</h3>
             <p className="text-sm mb-4">Frontend Developer passionate about creating beautiful and functional web experiences.</p>
             <div className="flex space-x-4">
-              <a href="https://github.com/ameerhamza" target="_blank" rel="noopener noreferrer" className="text-xl hover:text-primary transition-colors">
+              <a href="https://github.com/mr-hamza-3335" target="_blank" rel="noopener noreferrer" className="text-xl hover:text-primary transition-colors">
                 <FaGithub />
               </a>
               <a href="https://linkedin.com/in/ameer-hamza" target="_blank" rel="noopener noreferrer" className="text-xl hover:text-primary transition-colors">
