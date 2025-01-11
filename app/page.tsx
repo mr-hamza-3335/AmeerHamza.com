@@ -35,11 +35,11 @@ const projects = [
     demo: "https://milestone4-one-alpha.vercel.app/"
   },
   {
-    title: "Modern Digital Clock",
-    description: "A sleek and responsive digital clock displaying real-time hours, minutes, and seconds with a minimalist design.",
-    image: "/clock.PNG",
-    github: "https://github.com/mr-hamza-3335/digital-clock",
-    demo: "https://digital-clock-dun-tau.vercel.app/"
+    title: 'Revolutionizing E-Commerce Trends(blog website)',
+    description: 'Explore the latest innovations and insights shaping the future of online shopping',
+    image: '/1.PNG',
+    githubLink: 'https://github.com/mr-hamza-3335/blog-website',
+    liveLink: 'https://blog-website-pi-pearl.vercel.app/',
   }
 ]
 

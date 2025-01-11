@@ -62,16 +62,35 @@ const projects: Project[] = [
     githubLink: 'https://github.com/mr-hamza-3335/my-website',
     liveLink: 'https://my-website-blond-alpha.vercel.app/',
   },
-  // {
-  //   id: 6,
-  //   title: 'Movie Database',
-  //   description: 'A movie database application that allows users to search for movies, view details, and save favorites.',
-  //   image: '/project6.jpg',
-  //   technologies: ['React', 'Redux', 'TMDb API'],
-  //   githubLink: 'https://github.com/ameerhamza/movie-database',
-  //   liveLink: 'https://movie-database-app.vercel.app',
-  // },
+  {
+    id: 6,
+    title: 'Revolutionizing E-Commerce Trends (Blog Website)',
+    description: 'Explore the latest innovations and insights shaping the future of online shopping',
+    image: '/1.PNG',
+    technologies: ['React', 'Next.js', 'Tailwind CSS','Typescript'],
+    githubLink: 'https://github.com/mr-hamza-3335/blog-website',
+    liveLink: 'https://blog-website-pi-pearl.vercel.app/',
+  },
+  {
+    id: 7,
+    title: 'Baldia Town: Discover Your Local Community',
+    description: 'Explore the heart of Baldia Town with insights on its culture, landmarks, and local events.',
+    image: '/2.PNG',
+    technologies: ['React', 'Next.js', 'Tailwind CSS','Typescript'],
+    githubLink: 'https://github.com/mr-hamza-3335/baldia-town',
+    liveLink: 'https://baldia-town.vercel.app/',
+  },
+  {
+    id: 8,
+    title: 'Professional Static Resume',
+    description: 'A concise and visually appealing static resume showcasing my skills, experience, and achievements',
+    image: '/3.PNG',
+    technologies: ['HTML', 'CSS','Javascript'],
+    githubLink: 'https://github.com/mr-hamza-3335/milestone2',
+    liveLink: 'https://milestone2-lac.vercel.app/',
+  },
 ]
+
 
 const fadeInUp = {
   initial: { opacity: 0, y: 60 },
